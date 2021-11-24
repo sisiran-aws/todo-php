@@ -1,6 +1,6 @@
 
 <?php 
-
+//create
 if (isset($_POST['submit'])) {
 	require "../configs/config.php";
 
